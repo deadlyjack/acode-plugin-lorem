@@ -7,7 +7,8 @@
   "author": "Ajit <me@ajitkumar.dev>",
   "license": "MIT",
   "dependencies": {
-    "html-tag-js": "^1.1.22"
+    "html-tag-js": "^1.1.22",
+    "lorem-ipsum": "^2.0.8"
   },
   "devDependencies": {
     "@babel/cli": "^7.18.10",
